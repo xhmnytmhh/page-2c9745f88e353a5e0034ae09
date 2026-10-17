@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "e71d00a9f557d51a306de03d",
+  "owner": "xhmnytmhh",
+  "repo": "page-2c9745f88e353a5e0034ae09",
+  "title": "雪云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2c9745f88e353a5e0034ae09",
+      "a": "雪云",
+      "b": "",
+      "entity": "雪云",
+      "brand": "雪云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "af99fc21c273cf6e7800145fe80e45606cb1ae9165c903a8c23483d09a40afe3",
+      "content": {
+        "keyword1": "雪云",
+        "keyword2": "",
+        "primary_entity": "雪云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "雪云按月供应用途、设备并发与节点带宽的档位档位档位档位清单，含基础版、旗舰版、团队版及常见疑问。",
+          "AI_DESCRIPTION": "雪云按月供应用途、设备并发与节点带宽的档位档位档位档位清单，含基础版、旗舰版、团队版及常见疑问。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*,*::before,*::after{box-sizing:border-box}\nhtml,body{margin:0;padding:0}\nbody{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#f2f3f6;color:#1b1d23;line-height:1.7;-webkit-font-smoothing:antialiased}\na{color:#6b3df5;text-decoration:none;border-bottom:1px solid rgba(107,61,245,.35)}\na:hover{border-bottom-color:rgba(107,61,245,.9)}\n.wrap{max-width:1080px;margin:0 auto;padding:0 24px}\n\n/* 全宽色带分层堆叠 hero */\n.hero{position:relative;padding:0 0 56px 0;background:#f2f3f6}\n.band{width:100%;display:block}\n.band-1{background:#e7e9ef;height:46px}\n.band-2{background:#d9dbe6;height:18px}\n.band-3{background:#6b3df5;height:78px}\n.hero-inner{padding:56px 0 24px 0;position:relative}\n.eyebrow{font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:#6b3df5;margin:0 0 18px 0;font-weight:600}\n.eyebrow::before{content:\"\";display:inline-block;width:28px;height:2px;background:#a07bff;vertical-align:middle;margin-right:10px;transform:translateY(-2px)}\nh1.brand{font-size:clamp(44px,8vw,96px);font-weight:800;letter-spacing:-.02em;margin:0 0 22px 0;line-height:1;color:#1b1d23}\nh1.brand em{font-style:normal;color:#6b3df5}\n.lede{font-size:18px;color:#3a3e4a;max-width:62ch;margin:0 0 32px 0}\n.chips{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 24px 0;padding:0;list-style:none}\n.chips li{font-size:13px;padding:6px 12px;border:1px dashed rgba(107,61,245,.45);color:#4a3aa0;background:#fff;border-radius:2px}\n.jumpnav{font-size:14px;color:#3a3e4a;border-top:1px dashed #c5c8d6;border-bottom:1px dashed #c5c8d6;padding:14px 0;margin-top:8px}\n.jumpnav span{color:#8b8fa3;margin-right:12px}\n.jumpnav a{margin-right:14px;display:inline-block}\n.band-4{background:#cfc9f3;height:14px;margin-top:8px}\n.band-5{background:#efe7ff;height:6px}\n\nmain{padding:48px 0 64px 0}\nsection{scroll-margin-top:24px}\nsection + section{margin-top:56px}\nh2{font-size:30px;line-height:1.25;margin:0 0 8px 0;color:#1b1d23;letter-spacing:-.01em}\nh2 .num{font-family:\"SFMono-Regular\",Menlo,Consolas,monospace;color:#6b3df5;font-size:14px;vertical-align:middle;margin-right:10px;background:#ece6ff;padding:3px 8px;border-radius:2px}\n.section-sub{color:#5b5f6e;margin:0 0 26px 0;font-size:15px}\n\n/* 虚线框票据风格卡片 */\n.ticket{background:#fff;border:1px dashed #b9bdd0;border-radius:2px;padding:24px 26px;position:relative;margin:0 0 20px 0}\n.ticket::before{content:\"\";position:absolute;left:-1px;top:24px;bottom:24px;width:4px;background:linear-gradient(180deg,#a07bff,#6b3df5)}\n.ticket-head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:12px;margin-bottom:14px;padding-bottom:14px;border-bottom:1px dashed #d6d9e6}\n.ticket-head h3{margin:0;font-size:22px;color:#1b1d23}\n.ticket-head .price{font-family:\"SFMono-Regular\",Menlo,Consolas,monospace;font-size:20px;color:#6b3df5;font-weight:700}\n.ticket-head .price small{font-weight:400;color:#5b5f6e;font-size:13px;margin-left:6px}\n.ticket .annual{display:inline-block;font-size:13px;color:#3a3e4a;background:#f4f0ff;border:1px dashed #c8baf7;padding:3px 10px;border-radius:2px;margin-bottom:14px}\n.ticket ul{margin:0;padding-left:20px;color:#2c303b}\n.ticket ul li{margin:6px 0}\n.ticket.featured{background:#fbf7ff;border-color:#a594ee}\n.ticket.featured::before{background:linear-gradient(180deg,#ff6a3d,#6b3df5)}\n.ticket .tag{display:inline-block;font-size:12px;background:#6b3df5;color:#fff;padding:2px 8px;border-radius:2px;margin-left:10px;vertical-align:middle}\n\n/* 使用说明 */\n.steps{counter-reset:step;padding:0;margin:0;list-style:none}\n.steps li{counter-increment:step;border:1px dashed #b9bdd0;background:#fff;padding:18px 22px 18px 64px;position:relative;margin:0 0 14px 0;border-radius:2px}\n.steps li::before{content:counter(step,decimal-leading-zero);position:absolute;left:18px;top:18px;font-family:\"SFMono-Regular\",Menlo,Consolas,monospace;color:#6b3df5;font-weight:700;font-size:18px;background:#ece6ff;padding:2px 8px;border-radius:2px}\n.steps li h4{margin:0 0 6px 0;font-size:16px;color:#1b1d23}\n.steps li p{margin:0;color:#3a3e4a;font-size:14px}\n\n/* FAQ details */\n.faqs{display:grid;gap:12px}\n.faqs details{background:#fff;border:1px dashed #b9bdd0;border-radius:2px;padding:0 20px;transition:border-color .2s}\n.faqs details[open]{border-color:#8a6df0;background:#fbfaff}\n.faqs summary{cursor:pointer;list-style:none;padding:16px 0;font-weight:600;color:#1b1d23;font-size:15px;position:relative;padding-right:36px}\n.faqs summary::-webkit-details-marker{display:none}\n.faqs summary::after{content:\"+\";position:absolute;right:4px;top:14px;font-size:20px;color:#6b3df5;font-weight:400;line-height:1}\n.faqs details[open] summary::after{content:\"−\"}\n.faqs details p{margin:0 0 16px 0;color:#3a3e4a;font-size:14px}\n\n/* 客户端/适配 */\n.clients{border:1px dashed #b9bdd0;background:#fff;padding:22px 26px;border-radius:2px;color:#3a3e4a}\n.clients ul{margin:8px 0 0 0;padding-left:20px}\n.clients ul li{margin:4px 0}\n\n/* 注意事项 */\n.notes{border-left:4px solid #a07bff;background:#faf7ff;padding:16px 20px;color:#3a3e4a;font-size:14px;border-radius:0 2px 2px 0}\n.notes strong{color:#1b1d23}\n\n/* 页脚 */\nfooter{padding:36px 0 56px 0;border-top:1px dashed #c5c8d6;margin-top:32px;color:#5b5f6e;font-size:13px}\nfooter .cols{display:flex;flex-wrap:wrap;gap:32px;justify-content:space-between}\nfooter ul{list-style:none;padding:0;margin:6px 0 0 0}\nfooter li{margin:4px 0}\nfooter h5{font-size:13px;color:#1b1d23;margin:0 0 6px 0;letter-spacing:.08em;text-transform:uppercase}\n\n@media (max-width:640px){\n  .band-3{height:56px}\n  .hero-inner{padding:36px 0 12px 0}\n  h1.brand{font-size:46px}\n  .ticket{padding:20px}\n  .ticket-head h3{font-size:19px}\n  .ticket-head .price{font-size:17px}\n  .jumpnav a{margin-bottom:6px}\n}\n</style><header class=\"hero\">\n  <span class=\"band band-1\"></span>\n  <span class=\"band band-2\"></span>\n  <span class=\"band band-3\"></span>\n  <div class=\"wrap hero-inner\">\n    <p class=\"eyebrow\">节点服务档位说明 · 清单式务实口吻</p>\n    <h1 class=\"brand\">雪云<em>档位清单</em></h1>\n    <p class=\"lede\">本页按月告知每一档雪云档位的流量、设备并发、节点带宽与工单通道，不夸大加速效果，也不替你做选择。请按下方清单逐项对照。</p>\n    <ul class=\"chips\">\n      <li>月度流量档</li>\n      <li>设备并发上限</li>\n      <li>节点与带宽</li>\n      <li>工单支持</li>\n    </ul>\n    <div class=\"jumpnav\">\n      <span>本页直达</span>\n      <a href=\"#plans\">档位价格</a>\n      <a href=\"#usage\">使用说明</a>\n      <a href=\"#compat\">适配平台</a>\n      <a href=\"#faq\">常见问题</a>\n    </div>\n  </div>\n  <span class=\"band band-4\"></span>\n  <span class=\"band band-5\"></span>\n</header>\n\n<main class=\"wrap\">\n\n  <section id=\"plans\">\n    <h2><span class=\"num\">01</span>三档雪云档位</h2>\n    <p class=\"section-sub\">以下价格与权益直接来自本期档位清单，未在文中加入未提供的服务承诺。</p>\n\n    <article class=\"ticket\">\n      <div class=\"ticket-head\">\n        <h3>基础版</h3>\n        <div class=\"price\">¥15<small>/月</small></div>\n      </div>\n      <span class=\"annual\">按年付仅需 ¥150/年</span>\n      <ul>\n        <li>每月 100GB 极速流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n      </ul>\n    </article>\n\n    <article class=\"ticket featured\">\n      <div class=\"ticket-head\">\n        <h3>旗舰版<span class=\"tag\">推荐</span></h3>\n        <div class=\"price\">¥35<small>/月</small></div>\n      </div>\n      <span class=\"annual\">按年付仅需 ¥350/年</span>\n      <ul>\n        <li>每月 300GB 极速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7x24 优先工单支持</li>\n      </ul>\n    </article>\n\n    <article class=\"ticket\">\n      <div class=\"ticket-head\">\n        <h3>团队版</h3>\n        <div class=\"price\">¥85<small>/月</small></div>\n      </div>\n      <span class=\"annual\">按年付仅需 ¥850/年</span>\n      <ul>\n        <li>每月 1000GB 极速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n    </article>\n\n    <p class=\"notes\"><strong>价格说明：</strong>以上金额为本页档位清单中给出的价格，结算方式以购买时页面为准。</p>\n  </section>\n\n  <section id=\"usage\">\n    <h2><span class=\"num\">02</span>使用说明</h2>\n    <p class=\"section-sub\">按以下顺序完成即可,无需在阅读页面后再去翻阅其它文档。</p>\n    <ol class=\"steps\">\n      <li>\n        <h4>核对档位</h4>\n        <p>在上方三档中确认自己的月付/年付金额、流量额度与设备并发数。设备并发数指同时登录该档位的设备数。</p>\n      </li>\n      <li>\n        <h4>准备客户端</h4>\n        <p>适配平台见下一节。客户端的具体下载地址以购买邮件内附带的链接为准,本文不直接提供第三方下载链接。</p>\n      </li>\n      <li>\n        <h4>导入订阅</h4>\n        <p>登录后在用户中心复制订阅链接,粘贴到客户端的订阅地址栏,完成节点列表更新。</p>\n      </li>\n      <li>\n        <h4>选择节点</h4>\n        <p>根据当下用途选择节点类型。基础版为普通线路节点池;旗舰版增加 IPLC 专线;团队版为 VIP 专属高带宽节点。</p>\n      </li>\n      <li>\n        <h4>关注流量</h4>\n        <p>每月 100GB / 300GB / 1000GB 为各档位额度上限,优先工单与专属经理服务是工单层面的差别,不会改变流量计数方式。</p>\n      </li>\n    </ol>\n  </section>\n\n  <section id=\"compat\">\n    <h2><span class=\"num\">03</span>适配平台</h2>\n    <p class=\"section-sub\">以下为常见的客户端适配范围,具体可用版本请以购买后下发的客户端列表为准。</p>\n    <div class=\"clients\">\n      <strong>覆盖范围</strong>\n      <ul>\n        <li>iOS / iPadOS</li>\n        <li>Android</li>\n        <li>macOS</li>\n        <li>Windows</li>\n        <li>Linux(命令行与图形客户端)</li>\n        <li>路由器固件(OpenWrt 等)</li>\n      </ul>\n    </div>\n    <p class=\"notes\"><strong>提示：</strong>本页未列出特定客户端的下载地址与版本号,请以购买后收到的邮件或用户中心为准。</p>\n  </section>\n\n  <section id=\"faq\">\n    <h2><span class=\"num\">04</span>常见问题</h2>\n    <p class=\"section-sub\">点击问题展开答案。如需更进一步的细节,请通过工单提交。</p>\n    <div class=\"faqs\">\n\n      <details>\n        <summary>三档位之间最明显的差别是什么?</summary>\n        <p>最明显的差别在每月流量额度与设备并发数。基础版 100GB/3 台,旗舰版 300GB/5 台,团队版 1000GB/20 台。除此之外,节点类型与工单通道按档位递增,普通线路节点池、IPLC 专线、VIP 专属高带宽节点分别对应基础版、旗舰版、团队版。</p>\n      </details>\n\n      <details>\n        <summary>按月付和按年付分别怎么计费?</summary>\n        <p>按月付为每月支付基础版 ¥15、旗舰版 ¥35、团队版 ¥85。按年付的总价分别为 ¥150、¥350、¥850,折合到每月与月付价格一致。具体结算方式以购买时页面为准。</p>\n      </details>\n\n      <details>\n        <summary>设备并发数指的是什么?</summary>\n        <p>指同一档位账号下,允许同时在线的最大设备数量。例如基础版最多 3 台设备同时在线,超出后再登录新设备会挤掉最早登录的会话。</p>\n      </details>\n\n      <details>\n        <summary>旗舰版的 IPLC 专线用于哪种场景?</summary>\n        <p>本页档位清单描述为\"IPLC 专线游戏加速优化\",即针对游戏的低延迟与稳定连接做了优化。其他用途(例如视频、办公、下载)同样可使用,只是该档位额外给出了游戏加速这条线路标签。</p>\n      </details>\n\n      <details>\n        <summary>团队版与基础版、旗舰版的主要差异?</summary>\n        <p>团队版的差异集中在三点:一是流量提升到每月 1000GB;二是设备并发数提升到 20 台;三是提供 VIP 专属高带宽节点、支持企业定制路由与专属客户经理服务,适合多人共用或企业场景。</p>\n      </details>\n\n      <details>\n        <summary>在哪里获取客户端?</summary>\n        <p>本页不直接列出客户端下载地址。客户端的具体链接会在你下单完成后通过邮件发送,也可在用户中心查看。请不要从未经验证的第三方渠道下载。</p>\n      </details>\n\n      <details>\n        <summary>工单支持与专属客户经理的区别?</summary>\n        <p>工单支持按档位不同而不同,旗舰版提供 7x24 优先工单支持;团队版进一步提供专属客户经理服务。基础版工单通道为普通处理流程,响应时长随队列情况而定。</p>\n      </details>\n\n      <details>\n        <summary>如果当月流量用完会怎样?</summary>\n        <p>本页档位清单仅给出每月额度,未对超出额度后的具体行为(限速、停服或按量计费)做出说明。建议在流量使用接近上限前,通过工单询问后续规则。</p>\n      </details>\n\n    </div>\n  </section>\n\n</main>\n\n<footer class=\"wrap\">\n  <div class=\"cols\">\n    <div>\n      <h5>雪云 · 档位清单</h5>\n      <p>本页为雪云档位与使用说明的静态清单,所有金额、流量与设备并发数均直接来自档位条目。</p>\n    </div>\n    <div>\n      <h5>区块直达</h5>\n      <ul>\n        <li><a href=\"#plans\">档位价格</a></li>\n        <li><a href=\"#usage\">使用说明</a></li>\n        <li><a href=\"#compat\">适配平台</a></li>\n        <li><a href=\"#faq\">常见问题</a></li>\n      </ul>\n    </div>\n    <div>\n      <h5>说明</h5>\n      <ul>\n        <li>本页不列出客户端下载链接</li>\n        <li>本页未给出加速效果承诺</li>\n        <li>结算方式以购买页面为准</li>\n      </ul>\n    </div>\n  </div>\n</footer>",
+          "hash": "ae05fcb0509be43a45a2d8305673fc7d05f40238db111f9a1c7a3a87dd4257e3",
+          "seo": {
+            "title": "雪云 — 流量与节点服务档位清单",
+            "keywords": "雪云,流量档位,节点服务,设备并发,工单支持",
+            "description": "雪云按月供应用途、设备并发与节点带宽的档位档位档位档位清单，含基础版、旗舰版、团队版及常见疑问。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "4343",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "4 浅灰配电光紫",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ysqdazt.cn",
+    "host": "p-0e1cf6275f.ysqdazt.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "96ce9c6e578d904b88a13532a8164d46465faef2b521c6a88d59839c451da317",
+    "sitemap.xml": "f820440deee087d4cca49649b23d23bace1e1b7e3e57a7c3e02a20ad06761426",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ef9a12a4e5681ca91e200d7308d6b14fa36aed3455907c4e8b23f8f6d13bdfe5",
+    "robots.txt": "d95a6c4d1a322cd5aa846b7d037924ad7ba19f8c2ae27b5e65f20958e28975e8",
+    "5e0894333a594033f5aab81c4e9977d5.txt": "19d1f9c270a87efa5e66d520ea60e816e2e7c4d628aadd6ad89be84c8d83e173"
+  },
+  "revision": "15c61357929c4cfefe8693d534c1330ea7da705b4db8fe9598385b4170a2f70e"
+}
